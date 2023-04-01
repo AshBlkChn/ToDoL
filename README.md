@@ -1,1 +1,1 @@
-# ToDoL
+This To-Do List is a simple browser Extension that allows users to Create a list of tasks that they need to complete. It is a Productivity tool that helps users Manage their daily tasks, Prioritize them at the time of adding accordingly and Ensure that they are Completed. The Basic Features of this To-Do List include Creating new tasks, Marking tasks as completed and Editing or Deleting tasks as needed. This Extension would integrate on the top right side of the browser and no other page would be required to create and handle it.
